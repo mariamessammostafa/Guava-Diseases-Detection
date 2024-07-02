@@ -1,0 +1,5 @@
+0 Disease Free
+1 phytopthora
+2 Red_Rust
+3 Scab
+4 Styler and Root
